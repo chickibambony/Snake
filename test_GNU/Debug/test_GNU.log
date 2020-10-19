@@ -1,0 +1,2 @@
+﻿  test_GNU.cpp
+D:\Documents\Visual Studio\project VS\test_GNU\test_GNU\test_GNU.cpp(1,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
